@@ -24,6 +24,7 @@ If you use meetup.com to host your events, then you can create a public Google C
 
 Нажмите на стрелочку -> "Настройки календаря" -> 
 Скопируйте идентификатор календаря (например, g6l4qlj47f6c8l1urnd98cjhs3bugq30@import.calendar.google.com)
+
 7. Отправьте в Issue индентификатор, описание.
 
 
